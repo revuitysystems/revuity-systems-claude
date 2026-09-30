@@ -7,6 +7,8 @@
   },
   "homepage": "https://revuitysystems.com",
   "repository": "https://github.com/revuitysystems/revuity-systems-claude",
+  "icon": "https://revuitysystems.com/images/revuitysystems_icon.png",
+  "privacyPolicyUrl": "https://revuitysystems.com/privacy",
   "keywords": [
     "revuity",
     "operations-systems",
