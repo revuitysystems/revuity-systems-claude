@@ -1,0 +1,17 @@
+{
+  "name": "revuity-systems",
+  "version": "0.1.0",
+  "description": "Access and work with the Revuity AI Environment built for your business, including workflows, environment state, support, outcomes, and governed delivery actions.",
+  "author": {
+    "name": "Revuity Systems"
+  },
+  "homepage": "https://revuitysystems.com",
+  "repository": "https://github.com/revuitysystems/revuity-systems-claude",
+  "keywords": [
+    "revuity",
+    "operations-systems",
+    "ai-environment",
+    "mcp",
+    "operations"
+  ]
+}
