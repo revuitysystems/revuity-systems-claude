@@ -1,0 +1,6 @@
+{
+  "revuity-mcp": {
+    "type": "http",
+    "url": "https://oosccskpcxhfueuhtmtf.supabase.co/functions/v1/revuity-mcp"
+  }
+}
